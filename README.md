@@ -1,4 +1,4 @@
-# genai README
+# GenAI Test Bot (GAIB) README
 
 To try this extension, go to visual studio marketplace and search "GAIB genai". The top result will be the extension "genAI" by publisher GAIB. !That being said!, we have been having technical difficulties trying to run this extension on various machines. Keep in mind that you may not be able to run this extension at all. If you have questions about this, reach out to us. We are still working to resolve these issues.
 
